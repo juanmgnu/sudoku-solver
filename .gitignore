@@ -1,5 +1,6 @@
 .vs/
-*.sln
-*.csproj
 bin/
 obj/
+*.sln
+*.csproj
+*.csproj.user
